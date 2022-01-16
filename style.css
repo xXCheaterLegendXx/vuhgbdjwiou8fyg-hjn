@@ -1,0 +1,32 @@
+canvas
+{
+    border: 5px solid white;
+    border-radius: 20px;
+}
+
+.note {
+    font-size: 15px;
+    color: red;
+}
+
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: 24px;
+    margin: 0;
+    width: 100%;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: azure;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+    
+}
